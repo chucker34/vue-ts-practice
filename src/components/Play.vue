@@ -7,7 +7,7 @@
       </li>
     </ul>
     <input v-model="inputItem">
-    <button @click="add">更新</button>
+    <button @click="add" class='usa-button'>更新</button>
   </div>
 </template>
 
